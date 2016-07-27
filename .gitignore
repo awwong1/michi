@@ -1,1 +1,3 @@
 patterns.*
+venv
+.idea
